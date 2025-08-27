@@ -5,7 +5,7 @@
 
 ## Возможности
 - Фильтры: Region / Segment / Category (+ даты, если есть `Order Date`).
-- KPI: Sales, Profit, Items, Avg Discount, Profit margin (красиво форматы K/M/B).
+- KPI: Sales, Profit, Items, Avg Discount, Profit margin.
 - Графики:
   - Динамика по месяцам (Sales/Profit, опционально маржа).
   - Продажи по категориям и топ‑подкатегории.
